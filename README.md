@@ -4,12 +4,7 @@ This repository is a template to collect learnings and projects completed as par
 
 ## Getting started
 
-1. [Fork](https://docs.github.com/en/github/getting-started-with-github/quickstart/fork-a-repo) this repository by clicking the button in the top right corner.
-1. Clone your version from GitHub to your local machine
-1. Each day, update the repository with what you've learnt
-1. Add projects you've made as you go through the programme
-
-## Structure and styles
+Create a new repository on your own profile which has a README.md and a set of folders for each week.
 
 How you lay out this repository and how the site looks are up to you. We've added a couple of files already so you can see how we suggest laying out the learnings from each week. If you'd rather structure the repository differently, you're welcome to.
 
